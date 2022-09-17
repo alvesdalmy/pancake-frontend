@@ -56,7 +56,7 @@
       "address": "0x37b8Db888fF902a6c5BAcf4362e7b83188Df6934",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://dexv2.metaexchange.finance/images/tokens/0x3192CCDdf1CDcE4Ff055EbC80f3F0231b86A7E30.png"
+      "logoURI": "https://heroic-pika-146e5b.netlify.app/images/tokens/0x37b8Db888fF902a6c5BAcf4362e7b83188Df6934.png"
     },
     {
       "name": "Venus",
@@ -115,12 +115,12 @@
       "logoURI": "https://pancakeswap.finance/images/tokens/0xA7f552078dcC247C2684336020c03648500C6d9F.png"
     },
     {
-      "name": "PancakeSwap Token",
+      "name": "MetaExchange Token",
       "symbol": "MED",
       "address": "0x37b8Db888fF902a6c5BAcf4362e7b83188Df6934",
       "chainId": 97,
       "decimals": 18,
-      "logoURI": "https://dexv2.metaexchange.finance/images/tokens/0x3192CCDdf1CDcE4Ff055EbC80f3F0231b86A7E30.png"
+      "logoURI": "https://heroic-pika-146e5b.netlify.app/images/tokens/0x37b8Db888fF902a6c5BAcf4362e7b83188Df6934.png"
     },
     {
       "name": "BUSD Token",
