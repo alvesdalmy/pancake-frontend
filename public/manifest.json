@@ -1,8 +1,8 @@
 {
-  "short_name": "PancakeSwap",
-  "name": "PancakeSwap",
-  "description": "Farm CAKE with Pancake LP Tokens",
-  "homepage_url": "https://pancakeswap.finance",
+  "short_name": "MetaExchange",
+  "name": "MetaExchange",
+  "description": "Farm MED with MetaExchange LP Tokens",
+  "homepage_url": "https://dexv2.metaexchange.finance",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#1FC7D4",
