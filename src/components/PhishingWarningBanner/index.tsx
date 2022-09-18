@@ -45,8 +45,8 @@ const PhishingWarningBanner: React.FC<React.PropsWithChildren> = () => {
   const [, hideBanner] = usePhishingBannerManager()
   const { isMobile, isMd } = useMatchBreakpoints()
   const warningTextAsParts = useMemo(() => {
-    const warningText = t("please make sure you're visiting https://pancakeswap.finance - check the URL carefully.")
-    return warningText.split(/(https:\/\/pancakeswap.finance)/g)
+    const warningText = t("please make sure you're visiting https://dexv2.metaexchange.finance - check the URL carefully.")
+    return warningText.split(/(https:\/\/dexv2.metaexchange.finance)/g)
   }, [t])
   const warningTextComponent = (
     <>
@@ -59,8 +59,8 @@ const PhishingWarningBanner: React.FC<React.PropsWithChildren> = () => {
           key={i}
           small
           as="span"
-          bold={text === 'https://pancakeswap.finance'}
-          color={text === 'https://pancakeswap.finance' ? '#FFFFFF' : '#BDC2C4'}
+          bold={text === 'https://dexv2.metaexchange.finance'}
+          color={text === 'https://dexv2.metaexchange.finance' ? '#FFFFFF' : '#BDC2C4'}
         >
           {text}
         </Text>
