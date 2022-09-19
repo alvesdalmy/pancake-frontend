@@ -11,7 +11,7 @@ export const CAKE_MAINNET = new Token(
 
 export const CAKE_TESTNET = new Token(
   ChainId.BSC_TESTNET,
-  '0x37b8Db888fF902a6c5BAcf4362e7b83188Df6934',
+  '0x4075Bf6e6759857AcB3aF419997872e3992f6357',
   18,
   'MED',
   'MetaExchange Token',
